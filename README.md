@@ -41,3 +41,12 @@ Ref. Baekjoon Online Judge: Solve the Problem Step by Step
 
 ## :loudspeaker: Step 5. 1차원 배열
 - 1. 최소, 최대
+
+## :loudspeaker: Step 6. 함수
+- 1. 정수 N개의 합
+
+## :loudspeaker: Step 7. 문자열
+- 1. 아스키 코드
+
+## :loudspeaker: Step 8. 기본 수학
+- 1. 손익분기점
